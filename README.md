@@ -25,4 +25,11 @@ Adaptive Detail Injection-Based Feature Pyramid Network For Pan-sharpening
 
 ### ADI on BPN
 
+![image](https://github.com/yisun98/AFPN/blob/main/experiments/fig-bpn.png) 
+
 ### Mistakes in Paper
+
+![image](https://github.com/yisun98/AFPN/blob/main/experiments/fig-qb-table.png)
+
+![image](https://github.com/yisun98/AFPN/blob/main/experiments/fig-gf1-table.png)
+
