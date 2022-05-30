@@ -15,7 +15,7 @@ Adaptive Detail Injection-Based Feature Pyramid Network For Pan-sharpening
 
 #### Inference Time and Params
 
-![image](https://github.com/yisun98/AFPN/experiments/fig-time-params.png) 
+![image](https://github.com/yisun98/AFPN/blob/main/experiments/fig-time-params.png) 
 
 ### ADI on BPN
 
