@@ -5,7 +5,9 @@ Adaptive Detail Injection-Based Feature Pyramid Network For Pan-sharpening
 
 ### Fig.1 
 
-### TI and FDI on AFPN
+### TI vs. FDI on AFPN
+
+![image](https://github.com/yisun98/AFPN/blob/main/experiments/fig-tivsfdi.png) 
 
 ### FDI on GF-1
 
