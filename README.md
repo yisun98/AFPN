@@ -18,3 +18,5 @@ Adaptive Detail Injection-Based Feature Pyramid Network For Pan-sharpening
 #### Params
 
 ### ADI on BPN
+
+### Mistakes in Paper
