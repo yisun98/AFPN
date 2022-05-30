@@ -15,9 +15,13 @@ Adaptive Detail Injection-Based Feature Pyramid Network For Pan-sharpening
 
 ### FDI on GF-1
 
+![image](https://github.com/yisun98/AFPN/blob/main/experiments/fig-fdigf1.png)
+
 ### More experiments
 
 #### Texture loss
+
+![image](https://github.com/yisun98/AFPN/blob/main/experiments/fig-tl.png)
 
 #### Inference Time and Params
 
@@ -29,7 +33,6 @@ Adaptive Detail Injection-Based Feature Pyramid Network For Pan-sharpening
 
 ### Mistakes in Paper
 
-![image](https://github.com/yisun98/AFPN/blob/main/experiments/fig-qb-table.png)
+![image](https://github.com/yisun98/AFPN/blob/main/experiments/fig-result.png)
 
-![image](https://github.com/yisun98/AFPN/blob/main/experiments/fig-gf1-table.png)
 
