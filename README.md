@@ -3,7 +3,7 @@ Adaptive Detail Injection-Based Feature Pyramid Network For Pan-sharpening
 
 
 
-### Fig.1 
+### Fig.1 : the overall framework of AFPN
 
 ![image](https://github.com/yisun98/AFPN/blob/main/experiments/fig1.png) 
 
