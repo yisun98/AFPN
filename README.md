@@ -18,7 +18,7 @@ Adaptive Detail Injection-Based Feature Pyramid Network For Pan-sharpening
 
 #### Texture loss
 
-![image](https://github.com/yisun98/AFPN/blob/main/experiments/abalatation.png)
+![image](https://github.com/yisun98/AFPN/blob/main/experiments/abalation.png)
 
 #### Inference Time and Params
 
